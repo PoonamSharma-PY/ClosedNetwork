@@ -110,6 +110,6 @@ for graph_id, seed_set in tqdm(seed_sets.items(), desc="Evaluating Closed Networ
         }
 
 # --- Display Result ---
-print("\n📊 Best Closed Network (Maximum Profit):")
+print("\nBest Closed Network (Maximum Profit):")
 for key, value in best_graph_info.items():
     print(f"{key}: {value}")
