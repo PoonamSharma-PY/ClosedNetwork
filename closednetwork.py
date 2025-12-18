@@ -3,6 +3,7 @@ import random
 import networkx as nx
 import json
 
+
 # ----------------------------
 # SECTION 1: Read graph
 # ----------------------------
